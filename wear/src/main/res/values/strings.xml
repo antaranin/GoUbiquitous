@@ -1,0 +1,20 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Wear</string>
+    <string name="my_digital_name">Sunshine</string>
+    <string name="no_data">No data</string>
+    <string name="format_full_friendly_date"><xliff:g id="month">%1$s</xliff:g>, <xliff:g id="day">%2$s</xliff:g></string>
+    <string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+    <string name="south_west">SW</string>
+    <string name="south">S</string>
+    <string name="south_east">SE</string>
+    <string name="east">E</string>
+    <string name="norht_east">NE</string>
+    <string name="north">N</string>
+    <string name="north_west">NW</string>
+    <string name="west">W</string>
+    <!-- Wind in mph [CHAR LIMIT=25] -->
+    <string name="format_wind_mph"><xliff:g id="speed">%1$1.0f</xliff:g> mph</string>
+    <!-- Wind in kph [CHAR LIMIT=25] -->
+    <string name="format_wind_kmh"><xliff:g id="speed">%1$1.0f</xliff:g> km/h</string>
+
+</resources>
